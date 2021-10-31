@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Rosalia | Full Stack Software Engineer</h1>
+<h1 align="center">Hi! I'm Rosalia | Full Stack Software Developer</h1>
 
 
 <p align="center">
@@ -9,14 +9,6 @@ After serving in leadership roles in online gaming communities, I decided to lea
 
 
 <h1 align="center">Django Projects</h1>
-
-
-<p align="center">
-    <img width="300" src="https://media.giphy.com/media/XVNDCqSnsZ0V46ko4N/giphy.gif" />
-</p>
-<p align="center">
-    <img align="" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=zaliamist&repo=Capstone&theme=tokyonight" />
-</p>
 
 
 <p align="center">
