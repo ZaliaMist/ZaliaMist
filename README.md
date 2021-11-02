@@ -7,7 +7,7 @@
 
 
 After serving in leadership roles in online gaming communities, I decided to learn how to automate much of the manual record keeping and logistical accounting that I was doing.  I ended up spending six months working with JavaScript and React, and recently finished six months of Python and Django, graduating from the full-stack engineering program from Kenzie Academy.
-
+Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
 
 <h1 align="center">Django Projects</h1>
 
@@ -63,8 +63,6 @@ After serving in leadership roles in online gaming communities, I decided to lea
 
 
 <h1 align="center">About</h1>
-
-Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
 
     - Name Pronunciation: Rō `zā lia (sounds like the flowers Rose + Azalea)
 
