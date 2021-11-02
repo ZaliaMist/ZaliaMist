@@ -64,7 +64,7 @@ After serving in leadership roles in online gaming communities, I decided to lea
 
 <h1 align="center">About</h1>
 
-    - Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
+Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
 
     - Name Pronunciation: Rō `zā lia (sounds like the flowers Rose + Azalea)
 
