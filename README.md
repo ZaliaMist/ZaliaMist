@@ -6,7 +6,7 @@
 </p>
 
 
-After serving in leadership roles in online gaming communities, I decided to learn how to automate much of the manual record keeping and logistical accounting that I was doing.  I ended up spending six months working with JavaScript and React, and recently finished six months of Python and Django, graduating from the full-stack engineering program from Kenzie Academy.
+While serving in leadership roles in online gaming communities, I decided to learn how to automate the manual record keeping and logistical accounting I was doing. Now after 12 months working with JavaScript, React, Python and Django, I’ve graduated as a full-stack developer from Kenzie Academy. I’ve grown to become proficient in Debugging, Researching and Concept-to-execution strategies. I am an adaptive, driven, self learner, eager to contribute to a development team!
 Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
 
 <h1 align="center">Django Projects</h1>
