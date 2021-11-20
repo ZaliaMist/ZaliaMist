@@ -66,9 +66,9 @@ Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
 
     - Name Pronunciation: Rō `zā lia (sounds like the flowers Rose + Azalea)
 
-    - Playing With: JS, React and Django 
+    - Playing With: Ruby
     
-    - Currently Reading: "The Great Divorce" - C.S. Lewis, "Tribal Leadership" - Dave  Logan and "Delivering Happiness" - Tony Hsieh
+    - Currently Reading: "Tribal Leadership" - Dave  Logan, "Delivering Happiness" - Tony Hsieh and "Cach Me If You Can" - Frank W. Abagnale
     
     - A Favorite Quote: "We can have courage or we can have comfort, but we cannot have both." - Brene Brown 
 
