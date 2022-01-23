@@ -94,9 +94,6 @@ Find me on [Linkedin](http://www.linkedin.com/in/rosalia-shaw)
     <img align="" width="300px" src="https://github-readme-stats.vercel.app/api?username=zaliamist&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaliamist&count_private=true&langs_count=6&layout=compact" />
-</p> -->
 
 
 <link rel="stylesheet" type="text/css" href="style.css"/>
